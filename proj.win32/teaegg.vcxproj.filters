@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Layers">
+      <UniqueIdentifier>{7e996666-f059-4dbe-a300-e962f68e1f7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\UI">
+      <UniqueIdentifier>{98064feb-0412-4cdf-95d9-7f03f8c0661e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Lemonade">
+      <UniqueIdentifier>{18894f6a-530a-410f-b810-88a72623cf95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CCUIUtil.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameVars.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\soomlaEventHandler.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SoundUtil.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\stdutil.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Util.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AwardsLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BuildingsLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BlueButton.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BottomBar.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BusinessScene.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AlertDialog.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Car.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DayRecord.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Game.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Inventory.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Item.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\People.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Player.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Recipe.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Taste.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\World.cpp">
+      <Filter>Classes\Lemonade</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MenuScene.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\InAppPurchase.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DaySummary.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PeopleInfoLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RecipeTweakLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PeopleListItem.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TopBarLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TrafficLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WorldLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WorldSelectScene.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ItemListItem.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ItemListView.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LineChart.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PeopleSprite.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RefreshListView.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SpeechBubble.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TopBar.cpp">
+      <Filter>Classes\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\OptionsScene.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SalesChart.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopLayer.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Preload.cpp">
+      <Filter>Classes\Layers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CCUIUtil.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameVars.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\soomlaEventHandler.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SoundUtil.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\stdutil.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Util.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ValueMapMacros.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AwardsLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BuildingsLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BlueButton.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BottomBar.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BusinessScene.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AlertDialog.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Car.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DayRecord.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Game.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Inventory.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Item.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Items.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Lemonade.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\People.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Player.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Recipe.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Taste.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\World.h">
+      <Filter>Classes\Lemonade</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MenuScene.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\InAppPurchase.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DaySummary.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PeopleInfoLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RecipeTweakLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PeopleListItem.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TopBarLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TrafficLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WorldLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WorldSelectScene.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ItemListItem.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ItemListView.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LineChart.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PeopleSprite.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Refreshable.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RefreshListView.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SpeechBubble.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TopBar.h">
+      <Filter>Classes\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\OptionsScene.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SalesChart.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopLayer.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Preload.h">
+      <Filter>Classes\Layers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\icon1.ico" />
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>

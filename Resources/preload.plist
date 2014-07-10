@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>images</key>
+	<array>
+        <string>people/walking/boy.png</string>
+        <string>people/walking/girl.png</string>
+        <string>people/walking/female.png</string>
+        <string>people/walking/male.png</string>
+        <string>people/walking/oldwoman.png</string>
+        <string>people/walking/oldman.png</string>
+        
+        <string>people/walking-angry/boy.png</string>
+        <string>people/walking-angry/girl.png</string>
+        <string>people/walking-angry/female.png</string>
+        <string>people/walking-angry/male.png</string>
+        <string>people/walking-angry/oldwoman.png</string>
+        <string>people/walking-angry/oldman.png</string>
+
+        <string>people/walking-happy/boy.png</string>
+        <string>people/walking-happy/girl.png</string>
+        <string>people/walking-happy/female.png</string>
+        <string>people/walking-happy/male.png</string>
+        <string>people/walking-happy/oldwoman.png</string>
+        <string>people/walking-happy/oldman.png</string>
+        
+        <string>studio/CarUis0.png</string>
+        <string>studio/marker_0.png</string>
+        <string>studio/NewUI20.png</string>
+        <string>studio/NewUI21.png</string>
+        
+    </array>
+</dict>
+</plist>

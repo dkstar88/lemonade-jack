@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:29
+-keep class com.soomla.store.StoreController$IabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class org.cocos2dx.cpp.AppActivity { <init>(...); }
+

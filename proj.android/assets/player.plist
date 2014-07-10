@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easy</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>Lemon</key>
+			<string>50</string>
+			<key>Cup</key>
+			<string>100</string>
+			<key>Sugar</key>
+			<string>200</string>
+		</dict>
+		<key>money</key>
+		<string>50</string>
+	</dict>
+	<key>medium</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>Lemon</key>
+			<string>10</string>
+			<key>Cup</key>
+			<string>20</string>
+			<key>Sugar</key>
+			<string>20</string>
+		</dict>
+		<key>money</key>
+		<string>50</string>
+	</dict>
+	<key>hard</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>Lemon</key>
+			<string>0</string>
+			<key>Cup</key>
+			<string>0</string>
+			<key>Sugar</key>
+			<string>0</string>
+		</dict>
+		<key>money</key>
+		<string>50</string>
+	</dict>
+</dict>
+</plist>

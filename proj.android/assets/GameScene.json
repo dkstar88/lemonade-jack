@@ -1,0 +1,125 @@
+{
+  "classname": "CCNode",
+  "name": null,
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "BottomBar",
+      "canedit": true,
+      "objecttag": 10046,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 32.91668701171875,
+      "y": 14.333339691162109,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "publish/bottom_bar.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "TopLayer",
+      "canedit": true,
+      "objecttag": 10047,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 11.249732971191406,
+      "y": 309.5833740234375,
+      "zorder": 2,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "publish/topbar.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "shopLayer",
+      "canedit": true,
+      "objecttag": 10048,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": -1.250274658203125,
+      "y": -19.583465576171875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "publish/shop.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 640,
+    "_width": 960
+  },
+  "Triggers": null,
+  "Version": "1.4.0.1",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "GameScene"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

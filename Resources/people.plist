@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boy</key>
+	<dict>
+		<key>name</key>
+		<string>Male Student</string>
+		<key>desc</key>
+		<string>Young and active, likes sweet and sour</string>
+		<key>icon</key>
+		<string>people/boy-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<real>0.8</real>
+			<key>sour</key>
+			<real>0.2</real>
+			<key>bitter</key>
+			<real>0.1</real>
+			<key>spicy</key>
+			<integer>0</integer>
+			<key>salty</key>
+			<real>0.1</real>
+		</dict>
+	</dict>
+	<key>girl</key>
+	<dict>
+		<key>name</key>
+		<string>Female Student</string>
+		<key>desc</key>
+		<string>Young and active, likes sweets, only sweets</string>
+		<key>icon</key>
+		<string>people/girl-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<integer>1</integer>
+			<key>sour</key>
+			<real>0.4</real>
+			<key>bitter</key>
+			<integer>0</integer>
+			<key>spicy</key>
+			<integer>0</integer>
+			<key>salty</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>male</key>
+	<dict>
+		<key>name</key>
+		<string>Adult Male</string>
+		<key>desc</key>
+		<string>Sophisticated and masure with an appreciation of robust flavours</string>
+		<key>icon</key>
+		<string>people/male-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<real>0.6</real>
+			<key>sour</key>
+			<real>0.5</real>
+			<key>bitter</key>
+			<real>0.3</real>
+			<key>spicy</key>
+			<real>0.5</real>
+			<key>salty</key>
+			<real>0.5</real>
+		</dict>
+	</dict>
+	<key>female</key>
+	<dict>
+		<key>name</key>
+		<string>Adult Female</string>
+		<key>desc</key>
+		<string>Sophisticated and masure with an appreciation of robust flavours</string>
+		<key>icon</key>
+		<string>people/female-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<real>0.8</real>
+			<key>sour</key>
+			<real>0.4</real>
+			<key>bitter</key>
+			<real>0.2</real>
+			<key>spicy</key>
+			<integer>0</integer>
+			<key>salty</key>
+			<real>0.3</real>
+		</dict>
+	</dict>
+	<key>old-male</key>
+	<dict>
+		<key>name</key>
+		<string>Old Male</string>
+		<key>desc</key>
+		<string>Weakened sense of taste, preferes warm and easy to digest food</string>
+		<key>icon</key>
+		<string>people/old-male-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<real>0.3</real>
+			<key>sour</key>
+			<real>0.8</real>
+			<key>bitter</key>
+			<real>0.6</real>
+			<key>spicy</key>
+			<real>0.5</real>
+			<key>salty</key>
+			<real>0.5</real>
+		</dict>
+	</dict>
+	<key>old-female</key>
+	<dict>
+		<key>name</key>
+		<string>Old Female</string>
+		<key>desc</key>
+		<string>Weakened sense of taste, preferes warm and easy to digest food</string>
+		<key>icon</key>
+		<string>people/old-female-icon.png</string>
+		<key>taste</key>
+		<dict>
+			<key>sweet</key>
+			<real>0.6</real>
+			<key>sour</key>
+			<real>0.7</real>
+			<key>bitter</key>
+			<real>0.5</real>
+			<key>spicy</key>
+			<real>0.5</real>
+			<key>salty</key>
+			<real>0.3</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

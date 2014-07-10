@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>Lemon</key>  
+    <dict>  
+        <key>icon</key>
+		<string>lemon.png</string>
+		<key>price</key>
+		<string>5</string>
+		<key>shelflife</key>
+		<string>5</string>
+		<key>space</key>
+		<string>1</string>
+    </dict>
+    <key>Cup</key>  
+    <dict>  
+        <key>icon</key>
+		<string>cup.png</string>
+		<key>price</key>
+		<string>5</string>
+		<key>shelflife</key>
+		<string>5</string>
+		<key>space</key>
+		<string>1</string>
+    </dict>  
+    <key>Sugar</key>  
+    <dict>  
+        <key>icon</key>
+		<string>sugar.png</string>
+		<key>price</key>
+		<string>5</string>
+		<key>shelflife</key>
+		<string>5</string>
+		<key>space</key>
+		<string>1</string>
+    </dict>
+    <key>Lemonade</key>  
+    <dict>  
+        <key>icon</key>
+		<string>lemonade.png</string>
+		<key>price</key>
+		<string>20</string>
+		<key>shelflife</key>
+		<string>1</string>
+		<key>space</key>
+		<string>1</string>
+		<key>recipe</key>
+		<dict>
+			<key>Lemon</key>
+			<string>0.5</string>
+			<key>Cup</key>
+			<string>1</string>
+			<key>Sugar</key>
+			<string>2</string>
+		</dict>
+    </dict>
+</dict>  
+</plist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>female</key>
+	<array>
+		<string>female-laugh.mp3</string>
+		<string>whistle.mp3</string>
+		<string>girl-sneeze.mp3</string>
+	</array>
+	<key>male</key>
+	<array>
+		<string>male-cough.mp3</string>
+		<string>male-laugh2.mp3</string>
+		<string>male-laugh.mp3</string>
+		<string>male-sneeze.mp3</string>
+	</array>
+	<key>old-male</key>
+	<array>
+		<string>old-male-laugh.mp3</string>
+		<string>old-male-cough.mp3</string>
+	</array>
+	<key>old-female</key>
+	<array>
+		<string>old-female-laugh.mp3</string>
+		<string>old-female-sneeze.mp3</string>
+	</array>
+	<key>car</key>
+	<array>
+		<string>horn.mp3</string>
+		<string>horn2.mp3</string>
+		<string>horn3.mp3</string>
+		<string>horn4.mp3</string>
+		<string>horn5.mp3</string>
+		<string>horn6.mp3</string>
+		<string>horn7.mp3</string>
+	</array>
+	<key>boy</key>
+	<array>
+		<string>boy-sneeze.mp3</string>
+	</array>
+	<key>girl</key>
+	<array>
+		<string>girl-laugh.mp3</string>
+		<string>girl-laugh-long.mp3</string>
+		<string>girl-sneeze.mp3</string>
+	</array>
+</dict>
+</plist>
