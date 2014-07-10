@@ -1,7 +1,10 @@
 lemonade-jack
 =============
 
-Lemonade Jack is a lemonade stand type game, the game description can be found here http://en.wikipedia.org/wiki/Lemonade_Stand
+Lemonade Jack is a lemonade stand type game, the game description can be found here http://en.wikipedia.org/wiki/Lemonade_Stand. The code are written in C++ using cocos2d-x framework. I have tested it, the code should compile for iOS, Android, Win32. Other platforms are untested.
+
+I written this game to learn C++ and game development. You are welcome to use or change the code or graphics in this repo. 
+
 
 In variation to the original lemonade stand game, Lemonade Jack features the following:
 
